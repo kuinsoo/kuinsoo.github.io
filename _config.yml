@@ -28,6 +28,7 @@ markdown: kramdown
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
+timezone: Asia/Seoul # timezone 설정
 # Pagination Settings
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
@@ -53,15 +54,9 @@ jekyll-archives:
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
-
-  - cat: NodeJS
-    desc: "간단한 노드 서버 제작"
+# descriptions:
+#   - cat: NodeJS
+#     desc: Just some placeholder posts, lorem ipsum and the rest.
 # Social icons and sharing options
 #
 # Social settings are used in two places:
