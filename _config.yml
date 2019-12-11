@@ -60,6 +60,8 @@ descriptions:
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
+  - cat: NodeJS
+    desc: "간단한 노드 서버 제작"
 # Social icons and sharing options
 #
 # Social settings are used in two places:
